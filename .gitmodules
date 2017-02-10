@@ -1,0 +1,3 @@
+[submodule "client/dependencies/imgui"]
+	path = client/dependencies/imgui
+	url = git@github.com:ebriney/imgui.git
